@@ -12,4 +12,9 @@ git init - intitiate a particular git directory ie "git init my_first_repository
 rm - this is used to remove a file
 ls - details all the files in a particular directory
 cd - change directory, either to the home directory or to a documents directory (if it exists) "cd documents"
- 
+
+git commit - This is used to commit changes to the repository.
+git commit -a -m "message here" - This is how you shortcut the commit process by adding the commit message to you commit.
+git branch - this will bring up a list of all the git branches associated with your project/repository
+git checkout - this is used to change from one branch to another
+git checkout master - this gets you back onto the master or "trunk" branch of your project.
